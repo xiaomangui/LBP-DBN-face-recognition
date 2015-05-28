@@ -40,5 +40,9 @@ http://blog.csdn.net/dark_scope/article/details/9447967<br>
 LBP方向：<br>
 [LBP算法的研究及其在人脸识别中的应用 ](http://blog.csdn.net/dujian996099665/article/details/9038303)<br>
 [matlab学习：人脸识别之LBP (Local Binary Pattern)](http://www.cnblogs.com/yingying0907/archive/2012/11/18/2773920.html)<br>
-
-
+[LBP算法的Matlab代码 ](http://blog.csdn.net/kuaitoukid/article/details/8643253)<br>
+[opencv学习之（三）-LBP算法的研究及其实现 ](http://blog.csdn.net/dujian996099665/article/details/8886576)<br>
+[LBP原理加源码解析  ](http://blog.csdn.net/xidianzhimeng/article/details/19634573)<br>
+[LBP特征学习及实现  ](http://blog.csdn.net/jinshengtao/article/details/18219697)<br>
+[目标检测的图像特征提取之（一）HOG特征](http://blog.csdn.net/liulina603/article/details/8291093)<br>
+[目标检测的图像特征提取之（二）LBP特征  ](http://blog.csdn.net/liulina603/article/details/8291105)<br>
