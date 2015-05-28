@@ -32,4 +32,13 @@ validationCurve：关于正则参数的学习曲线<br>
 优点：<br>
    神经网络采用的是随机初始化，但容易收敛到局部最小值，用DBN训练得到网络的初始化参数，而不是随机初始化。DBN随机初始化之后，网络的训练方式就跟训练神经网络一样。<br>
 
+想弄明白这个程序：需要了解LBP,RBM,DBN,BP神经网络的知识<br>
+现在，把我实现这个工程，用到的各种资源贴上来，方便学习<br>
+我的工程是在别人的代码上改进的，代码见此博客<br>
+http://blog.csdn.net/dark_scope/article/details/9447967<br>
+
+LBP方向：<br>
+[LBP算法的研究及其在人脸识别中的应用 ](http://blog.csdn.net/dujian996099665/article/details/9038303)<br>
+[matlab学习：人脸识别之LBP (Local Binary Pattern)](http://www.cnblogs.com/yingying0907/archive/2012/11/18/2773920.html)<br>
+
 
