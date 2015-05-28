@@ -1,6 +1,6 @@
 # LBP-DBN-face-recognition
 使用LBP特征提取算法提取人脸特征，DBN网络来实现人脸识别，测试数据库-ORL数据库，识别率可达90%以上<br>
-工程使用方法：<br>
+##工程使用方法：<br>
 clone下工程，要根据实际情况修改test_example_DBN.m中的文件路径<br>
 我们在该文件中，a=imread(strcat('E:\My RBM-DBN matlab\ORL\ORL\s',num2str(i),'_',num2str(j),'.bmp'));<br>
 工程说明：<br>
