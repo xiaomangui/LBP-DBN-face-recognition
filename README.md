@@ -1,5 +1,8 @@
 # LBP-DBN-face-recognition
 使用LBP特征提取算法提取人脸特征，DBN网络来实现人脸识别，测试数据库-ORL数据库，识别率可达90%以上<br>
+工程使用方法：<br>
+clone下工程，要根据实际情况修改test_example_DBN.m中的文件路径<br>
+我们在该文件中，a=imread(strcat('E:\My RBM-DBN matlab\ORL\ORL\s',num2str(i),'_',num2str(j),'.bmp'));<br>
 工程说明：<br>
 英文简称注释：<br>
 DBN-深度信念网络、RBM-受限的玻尔兹曼机 、LBP-局部二值模式<br>
@@ -58,3 +61,7 @@ RBM，DBN相关的资料：<br>
 BP神经网络：<br>
 [神经网络-UFLDL](http://deeplearning.stanford.edu/wiki/index.php/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)<br>
 
+视频资源，强烈推荐看一下couresa上吴恩达的视频machine learing ，可以看一下这几节课<br>
+1、	IX: Neural Networks: Learning (Week 5)<br> 介绍反向传播算法，梯度校验（梯度校验可以检查我们的梯度下降法是否正确，也可以校验我们的反向传播算法是否正确）<br>
+2、	VII：正则化，我的程序中使用了正则参数<br>
+3、	X：Advice for Applying Machine Learning (Week 6)：讲述过拟合，欠拟合之类的,并教授描绘学习曲线的方法。<br>
