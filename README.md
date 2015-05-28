@@ -46,3 +46,15 @@ LBP方向：<br>
 [LBP特征学习及实现  ](http://blog.csdn.net/jinshengtao/article/details/18219697)<br>
 [目标检测的图像特征提取之（一）HOG特征](http://blog.csdn.net/liulina603/article/details/8291093)<br>
 [目标检测的图像特征提取之（二）LBP特征  ](http://blog.csdn.net/liulina603/article/details/8291105)<br>
+
+RBM，DBN相关的资料：<br>
+[rbm C++代码理解  ](http://blog.csdn.net/u012878523/article/details/39179101)<br>
+[【面向代码】学习 Deep Learning（二）Deep Belief Nets(DBNs)  ](http://blog.csdn.net/dark_scope/article/details/9447967)<br>
+[DeepLearning（深度学习）原理与实现（三） ](http://blog.csdn.net/marvin521/article/details/8896636)<br>
+[Deep Belief Network(DBN)的实现(c++) ](http://www.zhizhihu.com/html/y2013/4365.html)<br>
+[yusugomori/DeepLearning ](https://github.com/yusugomori/DeepLearning)<br>
+[DeepLearnToolbox DBN源码解析  ](http://blog.csdn.net/chlele0105/article/details/20781985)<br>
+
+BP神经网络：<br>
+[神经网络-UFLDL](http://deeplearning.stanford.edu/wiki/index.php/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)<br>
+
